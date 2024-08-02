@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### hit the link to go live : 
+**https://far-away-cod1.onrender.com/**
+
 ## Available Scripts
 
 In the project directory, you can run:
